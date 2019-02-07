@@ -6,3 +6,4 @@ class CreateUsersTable < ActiveRecord::Migration
       t.string :password
   end
 end
+end 
